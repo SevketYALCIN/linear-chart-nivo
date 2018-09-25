@@ -4,6 +4,7 @@ Simple implementation of a linear chart with 2 lines and dynamic switching using
 
 ### Comments
 
+- Good looking charts
 - Easy implementation
 - Good documentation
 - Very flexible
